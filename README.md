@@ -10,3 +10,5 @@ https://dribbble.com/ENDUGI
 
 2.Membuat Laporan
 (File diatas)
+
+link figma: https://www.figma.com/design/9zThpfaAuzTB0F3Fk9smcN/IMK-Tugas-1-Wireframe-Low-Fidelity?node-id=0-1&t=p6Gri5b54uMQfjFQ-1
